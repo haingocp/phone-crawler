@@ -1,0 +1,9 @@
+# Ignore Python dependencies
+phone_crawler_env/
+.env
+__pycache__/
+*.pyc
+
+
+# Ignore macOS system files
+.DS_Store

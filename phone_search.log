@@ -1,0 +1,14 @@
+2025-07-23 07:01:36,289 - INFO - Scraping: https://hvvh.de
+2025-07-23 07:01:39,260 - INFO - Trying contact page: https://hvvh.de/kontakt-2
+2025-07-23 07:01:40,093 - INFO - [1/4] A. Hoffmann Haus- und Vermögensverwaltung GmbH: Found phone +49-8151-5566228
+2025-07-23 07:01:42,095 - INFO - Scraping: https://accurata.de
+2025-07-23 07:01:42,439 - INFO - Trying contact page: https://accurata.de/kontakt/kontakt-zentrale
+2025-07-23 07:01:43,589 - INFO - Trying contact page: https://accurata.de/kontakt/ansprechpartner
+2025-07-23 07:01:44,769 - INFO - Trying contact page: https://accurata.de/kontakt/kontakt-zentrale#c15167
+2025-07-23 07:01:45,951 - INFO - [2/4] Accurata Immobilienverwaltung GmbH: No phone found
+2025-07-23 07:01:47,957 - INFO - Scraping: https://ach-immobilien.de
+2025-07-23 07:01:48,369 - INFO - [3/4] ACH Haus- und Grundbesitzverwaltung GmbH: No phone found
+2025-07-23 07:01:50,375 - INFO - Scraping: https://aitia-gmbh.de
+2025-07-23 07:01:51,335 - INFO - [4/4] aitia Gesellschaft für Fondsmanagement mbH: No phone found
+2025-07-23 07:01:53,342 - INFO - Completed! Processed 4 companies
+2025-07-23 07:01:53,343 - INFO - Phone numbers found: 1/4
